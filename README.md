@@ -1,6 +1,4 @@
 # 💫 About Me:
-# About Me
-
 Hi 👋, I'm **Gwalappa Mali**, a **2nd-year Computer Science Engineering student** at **HKBK College of Engineering**.
 
 💻 I'm passionate about **programming, software development, and learning new technologies**. I enjoy building projects, solving problems, and continuously improving my technical skills.
