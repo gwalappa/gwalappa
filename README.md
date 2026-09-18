@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Gwalappa 
 
-<!--
-**gwalappa/gwalappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 CSE Student | Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+I'm a 2nd year CSE engineering student passionate about
+programming, problem solving, and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- 🐍 Python
+- 💻 C
+- ☕ Java
+- 📊 Data Structures & Algorithms
+- 🖥️ Operating Systems
+- 🔢 NumPy
+- 🐼 Pandas
+- 🐙 Git & GitHub
+
+## 🚀 Projects
+
+- 🧮 Simple Calculator — Python
+- 🏦 Banking System — Python
+- 💻 Programming Practice — C
+- 🛒 Grocery Store — Python
+
+## 📚 Currently Learning
+
+- 🤖 Machine Learning
+- 🐍 Advanced Python
+- 📊 Data Analysis
+
+## 🎯 Goal
+
+Become a skilled AI/ML Engineer and build real-world projects.
+
+---
+
+⭐ Thanks for visiting my profile!
