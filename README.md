@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gwalappa 
 
-### 🚀 CSE Student | Aspiring AI/ML Engineer
+### 🚀 CSE Student | Aspiring AI Engineer
 
 I'm a 2nd year CSE engineering student passionate about
 programming, problem solving, and building real-world projects.
